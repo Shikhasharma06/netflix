@@ -1,4 +1,6 @@
 # netflix
+
+https://shikhasharma06.github.io/netflix/index.html
 ![Screenshot_2](https://github.com/Shikhasharma06/netflix/assets/135316685/49bde22f-d81d-417a-a009-e92bdb1d256a)
 This part consist of html file. In this, I have used header tag for header of the body. div tag is used for dividing contents/elements container-wise.
 
